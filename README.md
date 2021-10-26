@@ -10,7 +10,6 @@
 ## 사용 언어
 * C
 * javascript
-* 저는 착한 사람입니다.
 ***
 
 ```C
@@ -25,3 +24,5 @@ int main() {
 let a = "Hello world!"
   console.log(a);
 ```
+
+
