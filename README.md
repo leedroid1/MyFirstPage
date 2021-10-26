@@ -20,7 +20,7 @@ int main() {
 ```
 
 ```JavaScript
-let a = "Hellow world!"
+let a = "Hello world!"
   console.log(a);
 ```
 
