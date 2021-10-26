@@ -4,7 +4,7 @@
 ## 내 소개
  * 이진오, <leedroid800@gmail.com>
  * 서울예술대학교 디지털아트전공
- * 푸하핫
+ * 오늘 할 일은 내일 하자
 ***
 
 ## 사용 언어
@@ -24,5 +24,3 @@ int main() {
 let a = "Hello world!"
   console.log(a);
 ```
-
-
